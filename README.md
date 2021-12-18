@@ -40,7 +40,7 @@ _______________________________________________
 ### Resulting Documents 
 
 - [Paper](./Final_Paper_for_DS_Project___Credit_Card.pdf)
-- [Presentation](./Presentation-Team9-Business-Loan.mp4)
+- [Presentation](https://drive.google.com/file/d/1IWRR7-RPNRTbJKI86NnbVgWaqIKr-n5x/view?usp=sharing)
 
 _______________________________________________
 
